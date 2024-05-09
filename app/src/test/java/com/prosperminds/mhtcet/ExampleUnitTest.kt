@@ -1,4 +1,4 @@
-package com.exambullet.mhtcet
+package com.prosperminds.mhtcet
 
 import org.junit.Test
 

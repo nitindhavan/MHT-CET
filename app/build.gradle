@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace 'com.exambullet.mhtcet'
-    compileSdk 33
+    namespace 'com.prosperminds.mhtcet'
+    compileSdk 34
 
     defaultConfig {
-        applicationId "com.exambullet.mhtcet"
+        applicationId "com.prosperminds.mhtcet"
         minSdk 26
-        targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        targetSdk 34
+        versionCode 3
+        versionName "3.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
